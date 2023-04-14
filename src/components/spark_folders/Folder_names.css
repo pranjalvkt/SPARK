@@ -1,0 +1,30 @@
+body {
+    background-color: white;
+}
+.top_container {
+    background-color: white;
+}
+.folder_style {
+    width: 297px;
+    height: 48px;
+    background-color: #f2f6fc;
+    border: 1px solid #f2f6fc;
+    border-radius: 10px;
+}
+.btn{
+    width:100%;
+    position:relative;
+    height:50px;
+}
+.btn:hover {
+    background-color: #dae7fb
+}
+.icon{
+    position:absolute;
+    left:18px;
+    top:9px;
+    font-size:30px;
+}
+.col {
+    margin-top: 10px;
+}

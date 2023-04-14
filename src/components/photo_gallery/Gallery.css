@@ -1,0 +1,8 @@
+#gallery_frame {
+    width: 100vw;
+    height: 96vh;
+    border: none;
+}
+.gallery_div {
+    /* padding-left: 10px; */
+}
